@@ -1,4 +1,5 @@
 # MTAE-MTPE
+[![DOI](https://zenodo.org/badge/1133394676.svg)](https://doi.org/10.5281/zenodo.19674169)
 
 This repository contains the code used to generate the results and figures reported in the paper:
 
